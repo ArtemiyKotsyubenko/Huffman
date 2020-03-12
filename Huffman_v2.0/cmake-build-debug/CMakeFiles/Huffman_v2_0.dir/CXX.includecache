@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/artemiy/CLionProjects/Huffman_v2.0/Coder.h
+vector
+-
+stack
+-
+queue
+-
+Streams.h
+/home/artemiy/CLionProjects/Huffman_v2.0/Streams.h
+Huffman_Tree.h
+/home/artemiy/CLionProjects/Huffman_v2.0/Huffman_Tree.h
+
+/home/artemiy/CLionProjects/Huffman_v2.0/Huffman_Tree.h
+memory
+-
+list
+-
+vector
+-
+stack
+-
+
+/home/artemiy/CLionProjects/Huffman_v2.0/Streams.h
+fstream
+-
+iostream
+-
+
+/home/artemiy/CLionProjects/Huffman_v2.0/main.cpp
+cstring
+-
+Coder.h
+/home/artemiy/CLionProjects/Huffman_v2.0/Coder.h
+

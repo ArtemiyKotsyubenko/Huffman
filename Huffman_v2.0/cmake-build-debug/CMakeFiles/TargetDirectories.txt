@@ -1,0 +1,3 @@
+/home/artemiy/CLionProjects/Huffman_v2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/artemiy/CLionProjects/Huffman_v2.0/cmake-build-debug/CMakeFiles/Huffman_v2_0.dir
+/home/artemiy/CLionProjects/Huffman_v2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
